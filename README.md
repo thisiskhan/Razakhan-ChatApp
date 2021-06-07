@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+### [Live Site](https://razakhan-chatapp.netlify.app/)
 
 
 ## Introduction
